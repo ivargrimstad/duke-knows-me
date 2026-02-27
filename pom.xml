@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dukes</groupId>
-    <artifactId>decision-maker</artifactId>
+    <artifactId>duke-knows-me</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>MCP Server for Jakarta EE</name>
+    <name>Duke's Know-Me Engine</name>
     <packaging>war</packaging>
 
     <properties>
@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>dukesays</finalName>
+        <finalName>duke-knows-me</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

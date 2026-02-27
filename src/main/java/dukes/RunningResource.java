@@ -11,6 +11,6 @@ public class RunningResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "MCP Server for Jakarta EE is running";
+        return "Duke's Know-Me Engine for Jakarta EE is running";
     }
 }

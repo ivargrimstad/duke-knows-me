@@ -48,5 +48,5 @@ mvn clean package liberty:run
 
 ### 3. Test the Server
 
-The Status endpoint is available at: `http://localhost:8080/dukesays/status´
+The Status endpoint is available at: `http://localhost:8080/duke-knows-me/status´
 
