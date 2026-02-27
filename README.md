@@ -1,4 +1,4 @@
-# Decistion Maker for Jakarta EE
+# Decision Maker for Jakarta EE
 
 ## Features
 
